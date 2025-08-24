@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/mohamad0ahmad/Bento-grid)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://mohamad0ahmad.github.io/Bento-grid/)
 
 ---
 
